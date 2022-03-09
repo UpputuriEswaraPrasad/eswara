@@ -1,0 +1,37 @@
+1XX-- informational
+2xx-sucess( 200-sucess ,201-created,204-no content)
+3XX-redirection (304- not modified)
+4xx-Client Error (400-bad request,403 -forbidden,401-unathorized,404-not found,409-conflict)
+5XX- Server error(500-Internal Server error,503-service unavailable,502-Bad gateway)
+
+
+REST-Representaional state transfer -WADL(webapplication descrption language)
+SOAP --( SImple object access protocol) --WSDL( WebService Descriptive language)
+
+Assertions using expect:
+Response time 
+Status Code
+Status Code meaning
+Response type
+Response header
+post method check
+String in response
+
+
+
+Mocking a service in SOAP Tool and POSTMAN tool
+
+How SOAP Tool acts and Postman tool acts
+
+Database connectivity  for both  and queries realted to joins and select query 
+
+https://www.youtube.com/watch?v=OAvx5ttPO6A
+https://www.soapui.org/docs/functional-testing/validating-messages/getting-started-with-assertions/
+https://learning.postman.com/docs/writing-scripts/test-scripts/
+https://www.softwaretestinghelp.com/postman-assertions-automating-response-validation/
+https://www.chaijs.com/guide/styles/#differences
+https://www.javatpoint.com/postman-chai-assertion-library
+https://www.javatpoint.com/postman-get-response-in-mock-server
+
+
+
